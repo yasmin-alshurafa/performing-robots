@@ -11,4 +11,5 @@ An interesting thought that came to my mind while I was reading is how simple ye
 It is funny how everything nowadays is moving from being physical into being virtual. However, the Woggles are being moved to becoming physical rather than virtual. 
 
 
-A question the article left me thinking of is the difference between actors, performers, and performing agents. I believe that the performers’ focus is often the audience and what reactions they make. While on the other hand, the actors’ focus is often primarily on the scene and the context of the material provided. If what I believe is correct, then are the Woggles performers or actors?
+
+- A question the article left me thinking of is the difference between actors, performers, and performing agents. I believe that the performers’ focus is often the audience and what reactions they make. While on the other hand, the actors’ focus is often primarily on the scene and the context of the material provided. If what I believe is correct, then are the Woggles performers or actors?
