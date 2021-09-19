@@ -37,4 +37,4 @@
 
 ### Video of robot
 
-- A video of the robot moving can be found [here](https://drive.google.com/drive/u/0/folders/1iqlLajntSLyhIeDB-WeOJwqESZQFQ94U)
+- A video of the robot moving can be found [here](https://drive.google.com/drive/u/0/folders/1iqlLajntSLyhIeDB-WeOJwqESZQFQ94U).
