@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1: Robot Moving in Sequence
 
 ## Assignment Journey
 
@@ -36,3 +36,5 @@
 - When I uploaded the code the first time, the motor was moving in an undesired way or the way I wished it worked. The motor would move even when the delay command was there for it to stop. I thought there was something wrong with my code, however, the issue was that the battery's positive side was connected to the GND. 
 
 ### Video of robot
+
+- A video of the robot moving can be found [here](https://drive.google.com/drive/u/0/folders/1iqlLajntSLyhIeDB-WeOJwqESZQFQ94U)
