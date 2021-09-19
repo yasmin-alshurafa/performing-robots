@@ -1,4 +1,4 @@
-# Assignment 1: Robot Moving in Sequence
+# Assignment 2: Robot Moving in Sequence
 
 ## Assignment Journey
 
