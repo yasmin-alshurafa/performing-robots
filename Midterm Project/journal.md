@@ -15,3 +15,11 @@
 ![](IMG2.jpg)
 ![](IMG3.jpg)
 ![](IMG4.jpg)
+
+- I wired up the 3 Servo motors and tested them out using the Sweep example. They all worked.
+
+![](IMG5.jpg)
+
+- I wired up the LEDs and tested them out using the Blink example. They all worked.
+
+![](IMG6.jpg)
