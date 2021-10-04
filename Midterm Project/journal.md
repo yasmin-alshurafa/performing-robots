@@ -5,3 +5,13 @@
 - An image of how the robot will kind of look like:
 
 ![](IMG1.jpg)
+
+### Oct 4:
+
+- Today I wired up all the components I needed and tested that they were working using the built-in example. I wired up the 3 buttons and test them out using the DigitalReadSerial example and they all worked. I attached the first radio to the Arduino that has the buttons connected and by that I had my first Arduino ready. The Arduino with the buttons will be that one used to control the working components attached to the other Arduino.
+
+- This is how the first Arduino with the buttons and the radio turned out:
+
+![](IMG2.jpg)
+![](IMG3.jpg)
+![](IMG4.jpg)
