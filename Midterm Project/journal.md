@@ -23,3 +23,21 @@
 - I wired up the LEDs and tested them out using the Blink example. They all worked.
 
 ![](IMG6.jpg)
+
+- I finally soldered the other pair of DC gearmotors and connected them to the H-bridge to test if they worked. At first, the DC gearmotors didn't work. The H-bridge was powered but the red light on the H-bridge was very dim. I thought the issue was with the battery. However, it wasn't. I realzied that my Arduino was powered from the battery without it being connected to the laptop, that's when I figured out that there was something wrong with my wiring. It turns out the that the wire connecting the GND from the H-bridge was connected to the 5V on the Arduino. I got it fixed and connected the GND to the GND and by that it worked. I uploaded a simple code to test the DC gearmotors and they worked.
+
+- The soldered DC gearmotors:
+
+![](IMG7.jpg)
+
+- The Arduino was powered from the battery:
+
+![](IMG8.jpg)
+
+- The H-brigde light was dim:
+
+![](IMG9.jpg)
+
+- Functioning DC gearmotors:
+
+![](IMG10.jpg)
