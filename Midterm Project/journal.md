@@ -8,7 +8,7 @@
 
 ### Oct 4:
 
-- Today I wired up all the components I needed and tested that they were working using the built-in example. I wired up the 3 buttons and test them out using the DigitalReadSerial example and they all worked. I attached the first radio to the Arduino that has the buttons connected and by that I had my first Arduino ready. The Arduino with the buttons will be that one used to control the working components attached to the other Arduino.
+- Today I wired up all the components I needed and tested that they were working using the built-in example. I wired up the 3 buttons and test them out using the DigitalReadSerial example and they all worked. I attached the first radio to the Arduino that has the buttons connected and by that, I had my first Arduino ready. The Arduino with the buttons will be that one used to control the working components attached to the other Arduino.
 
 - This is how the first Arduino with the buttons and the radio turned out:
 
@@ -24,7 +24,7 @@
 
 ![](IMG6.jpg)
 
-- I finally soldered the other pair of DC gearmotors and connected them to the H-bridge to test if they worked. At first, the DC gearmotors didn't work. The H-bridge was powered but the red light on the H-bridge was very dim. I thought the issue was with the battery. However, it wasn't. I realzied that my Arduino was powered from the battery without it being connected to the laptop, that's when I figured out that there was something wrong with my wiring. It turns out the that the wire connecting the GND from the H-bridge was connected to the 5V on the Arduino. I got it fixed and connected the GND to the GND and by that it worked. I uploaded a simple code to test the DC gearmotors and they worked.
+- I finally soldered the other pair of DC gear motors and connected them to the H-bridge to test if they worked. At first, the DC gear motors didn't work. The H-bridge was powered but the red light on the H-bridge was very dim. I thought the issue was with the battery. However, it wasn't. I realized that my Arduino was powered from the battery without it being connected to the laptop, that's when I figured out that there was something wrong with my wiring. It turns out that the wire connecting the GND from the H-bridge was connected to the 5V on the Arduino. I got it fixed and connected the GND to the GND and by that, it worked. I uploaded a simple code to test the DC gear motors and they worked.
 
 - The soldered DC gearmotors:
 
@@ -44,9 +44,9 @@
 
 ### Oct 5:
 
-- Today I worked abit on getting my Arduino code to work or more specifically get the basis of my code done. I started with trying to understand how the radio trasmitter and reciever's code work. Although I didn't understand some lines the overall idea of the code somehow made sense. So I worked on getting the trasmitter code done, however, I'm still not sure if it works or not. 
-- The discussion that was happening on Discourse about data and sequences was really helpful, it added to my understanding about how the code works.
+- Today I worked a bit on getting my Arduino code to work or more specifically get the basis of my code done. I started by trying to understand how the radio transmitter and receiver's code work. Although I didn't understand some lines the overall idea of the code somehow made sense. So I worked on getting the transmitter code done, however, I'm still not sure if it works or not. 
+- The discussion that was happening on Discourse about data and sequences was really helpful, it added to my understanding of how the code works.
 
 ### Oct 6:
 
-- Today I worked on trying to complete the code for my project. I fixed what I had in my control code after understanding how the code actually works and what the commands are from today's class. I also worked on getting the basis of the reciever code done. 
+- Today I worked on trying to complete the code for my project. I fixed what I had in my control code after understanding how the code actually works and what the commands are from today's class. I also worked on getting the basics of the receiver code done. 
