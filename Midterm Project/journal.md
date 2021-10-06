@@ -46,3 +46,7 @@
 
 - Today I worked abit on getting my Arduino code to work or more specifically get the basis of my code done. I started with trying to understand how the radio trasmitter and reciever's code work. Although I didn't understand some lines the overall idea of the code somehow made sense. So I worked on getting the trasmitter code done, however, I'm still not sure if it works or not. 
 - The discussion that was happening on Discourse about data and sequences was really helpful, it added to my understanding about how the code works.
+
+### Oct 6:
+
+- Today I worked on trying to complete the code for my project. I fixed what I had in my control code after understanding how the code actually works and what the commands are from today's class. I also worked on getting the basis of the reciever code done. 
