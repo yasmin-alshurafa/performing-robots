@@ -50,3 +50,25 @@
 ### Oct 6:
 
 - Today I worked on trying to complete the code for my project. I fixed what I had in my control code after understanding how the code actually works and what the commands are from today's class. I also worked on getting the basics of the receiver code done. 
+
+### Oct 7:
+
+- Today I worked to prototyping the physical appearance of the robot. I experimented with the cardboards. I created a potential overshape for different parts and how they will be placed.
+
+- The DC gearmotors place:
+
+![](IMG11.jpg)
+![](IMG12.jpg)
+![](IMG13.jpg)
+
+- The top cover of robot:
+
+![](IMG14.jpg)
+
+- A small shelf to hold the Arduino:
+
+![](IMG15.jpg)
+
+- The Servo motor place:
+
+![](VID1.mov)
