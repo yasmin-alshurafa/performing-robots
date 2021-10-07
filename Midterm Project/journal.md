@@ -71,4 +71,4 @@
 
 - The Servo motor place:
 
-![](VID1.mov)
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/1Rfj4b0oC8dW9Eg20YPf45i3h9HUjXvx3) in the name "VID1.mov".
