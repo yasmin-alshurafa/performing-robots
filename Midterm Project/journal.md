@@ -72,3 +72,24 @@
 - The Servo motor place:
 
 ##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/1Rfj4b0oC8dW9Eg20YPf45i3h9HUjXvx3) in the name "VID1.mov".
+
+### Oct 10:
+
+- Today I worked on what the actual physical appearance of the robot would look like. The first components I built for the robot were only for experimenting on how things would look like. However, what I built today is for the final robot.
+
+- This is how the box looks like:
+
+![](IMG16.jpg)
+![](IMG17.jpg)
+
+- This shelf is there to carry the Arduino:
+
+![](IMG18.jpg)
+![](IMG19.jpg)
+![](IMG20.jpg)
+
+- These holders were built to hold the Servo motors:
+
+![](IMG21.jpg)
+![](IMG22.jpg)
+![](IMG23.jpg)
