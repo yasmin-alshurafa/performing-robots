@@ -4,7 +4,7 @@
 
 - An image of how the robot will kind of look like:
 
-![](IMG1.jpg)
+![](Media/IMG1.jpg)
 
 ### Oct 4:
 
