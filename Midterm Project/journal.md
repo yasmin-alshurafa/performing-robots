@@ -93,3 +93,5 @@
 ![](Media/IMG21.jpg)
 ![](Media/IMG22.jpg)
 ![](Media/IMG23.jpg)
+
+### Oct 11:
