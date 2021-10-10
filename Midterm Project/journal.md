@@ -12,35 +12,35 @@
 
 - This is how the first Arduino with the buttons and the radio turned out:
 
-![](IMG2.jpg)
-![](IMG3.jpg)
-![](IMG4.jpg)
+![](Media/IMG2.jpg)
+![](Media/IMG3.jpg)
+![](Media/IMG4.jpg)
 
 - I wired up the 3 Servo motors and tested them out using the Sweep example. They all worked.
 
-![](IMG5.jpg)
+![](Media/IMG5.jpg)
 
 - I wired up the LEDs and tested them out using the Blink example. They all worked.
 
-![](IMG6.jpg)
+![](Media/IMG6.jpg)
 
 - I finally soldered the other pair of DC gear motors and connected them to the H-bridge to test if they worked. At first, the DC gear motors didn't work. The H-bridge was powered but the red light on the H-bridge was very dim. I thought the issue was with the battery. However, it wasn't. I realized that my Arduino was powered from the battery without it being connected to the laptop, that's when I figured out that there was something wrong with my wiring. It turns out that the wire connecting the GND from the H-bridge was connected to the 5V on the Arduino. I got it fixed and connected the GND to the GND and by that, it worked. I uploaded a simple code to test the DC gear motors and they worked.
 
 - The soldered DC gearmotors:
 
-![](IMG7.jpg)
+![](Media/IMG7.jpg)
 
 - The Arduino was powered from the battery:
 
-![](IMG8.jpg)
+![](Media/IMG8.jpg)
 
 - The H-brigde light was dim:
 
-![](IMG9.jpg)
+![](Media/IMG9.jpg)
 
 - Functioning DC gearmotors:
 
-![](IMG10.jpg)
+![](Media/IMG10.jpg)
 
 ### Oct 5:
 
@@ -57,17 +57,17 @@
 
 - The DC gearmotors place:
 
-![](IMG11.jpg)
-![](IMG12.jpg)
-![](IMG13.jpg)
+![](Media/IMG11.jpg)
+![](Media/IMG12.jpg)
+![](Media/IMG13.jpg)
 
 - The top cover of robot:
 
-![](IMG14.jpg)
+![](Media/IMG14.jpg)
 
 - A small shelf to hold the Arduino:
 
-![](IMG15.jpg)
+![](Media/IMG15.jpg)
 
 - The Servo motor place:
 
@@ -79,17 +79,17 @@
 
 - This is how the box looks like:
 
-![](IMG16.jpg)
-![](IMG17.jpg)
+![](Media/IMG16.jpg)
+![](Media/IMG17.jpg)
 
 - This shelf is there to carry the Arduino:
 
-![](IMG18.jpg)
-![](IMG19.jpg)
-![](IMG20.jpg)
+![](Media/IMG18.jpg)
+![](Media/IMG19.jpg)
+![](Media/IMG20.jpg)
 
 - These holders were built to hold the Servo motors:
 
-![](IMG21.jpg)
-![](IMG22.jpg)
-![](IMG23.jpg)
+![](Media/IMG21.jpg)
+![](Media/IMG22.jpg)
+![](Media/IMG23.jpg)
