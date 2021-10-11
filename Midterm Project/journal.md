@@ -96,7 +96,17 @@
 
 ### Oct 11:
 
-- Today I worked on getting my Arduino connections done. I initially wanted to use the Arduino Mega because it carried more pins and I needed more pins to fit all my components. After connecting all my pins, I tried to upload the code and it didn't seem to work. I got the message "Problem uploading to board". I looked for ways on solving the problem through the web and I followed all the steps but again nothing seemed to work. I have tried disconnecting the USB and connecting it again. I tried changing the place of the USB cable, I used the other port. I checked the port from the tools and it was there. I closed the Arduino program and opened it again. I removed all the wires from the Arduino. I pressed the reset button on the Arduino. I shut down my laptop and opened it again. I tried everything I know but it didn't work and the message would still come back every time I tried uploading the code. So, I finally decided to go back to using the Arduino Uno because at least I knew it accepted uploading codes. I decided to reduce the number of components I initially wanted to use in my robot.
+- Today in the morning I worked on the external cover of the Servo motors. I glued the Servo motors to the cardboard and looked at how they would be positioned on the main robot body. 
+
+- This is how the final result of the Servo motors turned out: 
+
+![](Media/IMG27.jpg)
+![](Media/IMG28.jpg)
+![](Media/IMG29.jpg)
+![](Media/IMG30.jpg)
+![](Media/IMG31.jpg)
+
+- Today in the afternoon I worked on getting my Arduino connections done. I initially wanted to use the Arduino Mega because it carried more pins and I needed more pins to fit all my components. After connecting all my pins, I tried to upload the code and it didn't seem to work. I got the message "Problem uploading to board". I looked for ways on solving the problem through the web and I followed all the steps but again nothing seemed to work. I have tried disconnecting the USB and connecting it again. I tried changing the place of the USB cable, I used the other port. I checked the port from the tools and it was there. I closed the Arduino program and opened it again. I removed all the wires from the Arduino. I pressed the reset button on the Arduino. I shut down my laptop and opened it again. I tried everything I know but it didn't work and the message would still come back every time I tried uploading the code. So, I finally decided to go back to using the Arduino Uno because at least I knew it accepted uploading codes. I decided to reduce the number of components I initially wanted to use in my robot.
 
 - This is the message that popped up every time I tried uploading the code to the Arduino Mega:
 
