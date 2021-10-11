@@ -96,34 +96,34 @@
 
 ### Oct 11:
 
-- Today I worked on getting my Arduino connections done. I intially wanted to use the Arduino Mega because it carried more pins and I needed more pins to fit all my components. After connecting all my pins, I tried to upload the code and it didn't seem to work. I got the message "Problem uploading to board". I looked for ways on solving the problem through the web and I followed all the steps but again nothing seemed to work. I have tried disconnecting the USB and connecting it again. I tried changing the place of the USB cable, I used the other port. I checked the port from the tools and it was there. I closed the program Arduino and opened it again. I removed all the wires from the Arduino. I pressed on the rest button on the Arduino. I shut sown my laptopn and opened it again. I basically tried eveyrthing I know but it didnt work and the messgae would still come back everytime I tried uploading the code. So, I finally decided to go back to using the Arduino Uno because at least i knew it accepted uploading codes. I decided to reduce the amount of componenets I initially wanted to use in my robot. 
+- Today I worked on getting my Arduino connections done. I initially wanted to use the Arduino Mega because it carried more pins and I needed more pins to fit all my components. After connecting all my pins, I tried to upload the code and it didn't seem to work. I got the message "Problem uploading to board". I looked for ways on solving the problem through the web and I followed all the steps but again nothing seemed to work. I have tried disconnecting the USB and connecting it again. I tried changing the place of the USB cable, I used the other port. I checked the port from the tools and it was there. I closed the Arduino program and opened it again. I removed all the wires from the Arduino. I pressed the reset button on the Arduino. I shut down my laptop and opened it again. I tried everything I know but it didn't work and the message would still come back every time I tried uploading the code. So, I finally decided to go back to using the Arduino Uno because at least I knew it accepted uploading codes. I decided to reduce the number of components I initially wanted to use in my robot.
 
-- This the message that popped up everytime I tried uploading the code to the Arduino Mega:
+- This is the message that popped up every time I tried uploading the code to the Arduino Mega:
 
 ![](Media/IMG24.jpg)
 
-- Today I also uploaded the code I made earlier for the transimitter side of the radio to my first Ardunio connection and it was working fine becasue I go information in my serial mointor.
+- Today I also uploaded the code I made earlier for the transmitter side of the radio to my first Arduino connection and it was working fine because I got information in my serial monitor.
 
-- This is a video of the first Ardunio connection working:
+- This is a video of the first Arduino connection working:
 
 ##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/1Rfj4b0oC8dW9Eg20YPf45i3h9HUjXvx3) in the name "VID2.mov".
 
-- For the second Arduino I started by connecting the radio reciever and the first pair of DC gearmotors. Although it was working, one of the DC gearmotors didnt work when I pressed the button of the right direction. Since it worked with the forward button, I knew there was something wrong with the case of the of the right button. There was a sound coming out of the DC gearmotor but it didnt move. Finally, the issue was with the code of case 1. I had both the pins connected to the analog and the digital pins set at low values. Once I chnaged it, it worked well.
+- For the second Arduino I started by connecting the radio receiver and the first pair of DC gear motors. Although it was working, one of the DC gear motors didn't work when I pressed the button in the right direction. Since it worked with the forward button, I knew there was something wrong with the case of the right button. There was a sound coming out of the DC gear motor but it didn't move. Finally, the issue was with the code of case 1. I had both the pins connected to the analog and the digital pins set at low values. Once I changed it, it worked well.
 
-- The DC gearmotor not working when the right button was pressed:
+- The DC gear motor not working when the right button was pressed:
 
 ##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/1Rfj4b0oC8dW9Eg20YPf45i3h9HUjXvx3) in the name "VID3.mov".
 
-- Part in code that was not allowing the DC gearmotor to move:
+- Part in code that was not allowing the DC gear motor to move:
 
 ![](Media/IMG25.jpg)
 
-- I connected the second pair of DC gear motors to the Arduino to make sure they were functioning well with the radio. Although all the buttons were working and the DC gear motors were working when I pressed the forward button, one of the DC gear motors was not moving. It was moving with the other button but not the forward button, so I knew there was something wrong with the code, specifically with the case of the forward button. It was true, I had an issue with the code where instead of tping (in6Pin) I wrote (in5Pin). 
+- I connected the second pair of DC gear motors to the Arduino to make sure they were functioning well with the radio. Although all the buttons were working and the DC gear motors were working when I pressed the forward button, one of the DC gear motors was not moving. It was moving with the other button but not the forward button, so I knew there was something wrong with the code, specifically with the case of the forward button. It was true, I had an issue with the code where instead of typing (in6Pin) I wrote (in5Pin). 
 
-- The DC gearmotor not working when the forward button was pressed:
+- The DC gear motor not working when the forward button was pressed:
 
 ##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/1Rfj4b0oC8dW9Eg20YPf45i3h9HUjXvx3) in the name "VID4.mov".
 
-- Part in code that was not allowing the DC gearmotor to move:
+- Part in code that was not allowing the DC gear motor to move:
 
 ![](Media/IMG26.jpg)
