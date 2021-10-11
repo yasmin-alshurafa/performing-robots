@@ -96,4 +96,14 @@
 
 ### Oct 11:
 
-- 
+- Today I worked on getting my Arduino connections done. I intially wanted to use the Arduino Mega because it carried more pins and I needed more pins to fit all my components. After connecting all my pins, I tried to upload the code and it didn't seem to work. I got the message "Problem uploading to board". I looked for ways on solving the problem through the web and I followed all the steps but again nothing seemed to work. I have tried disconnecting the USB and connecting it again. I tried changing the place of the USB cable, I used the other port. I checked the port from the tools and it was there. I closed the program Arduino and opened it again. I removed all the wires from the Arduino. I pressed on the rest button on the Arduino. I shut sown my laptopn and opened it again. I basically tried eveyrthing I know but it didnt work and the messgae would still come back everytime I tried uploading the code. So, I finally decided to go back to using the Arduino Uno because at least i knew it accepted uploading codes. I decided to reduce the amount of componenets I initially wanted to use in my robot. 
+
+- This the message that popped up everytime I tried uploading the code to the Arduino Mega:
+
+![](Media/IMG24.jpg)
+
+- Today I also uploaded the code I made earlier for the transimitter side of the radio to my first Ardunio connection and it was working fine becasue I go information in my serial mointor.
+
+- This is a video of the first Ardunio connection working:
+
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/1Rfj4b0oC8dW9Eg20YPf45i3h9HUjXvx3) in the name "VID2.mov".
