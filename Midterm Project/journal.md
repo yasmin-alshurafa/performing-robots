@@ -107,3 +107,14 @@
 - This is a video of the first Ardunio connection working:
 
 ##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/1Rfj4b0oC8dW9Eg20YPf45i3h9HUjXvx3) in the name "VID2.mov".
+
+- For the second Arduino I started by connecting the radio reciever and the first pair of DC gearmotors. Although it was working, one of the DC gearmotors didnt work when I pressed the button of the right direction. Since it worked with the forward button, I knew there was something wrong with the case of the of the right button. There was a sound coming out of the DC gearmotor but it didnt move. Finally, the issue was with the code of case 1. I had both the pins connected to the analog and the digital pins set at low values. Once I chnaged it, it worked well.
+
+- The DC gearmotor not working when the right button was pressed:
+
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/1Rfj4b0oC8dW9Eg20YPf45i3h9HUjXvx3) in the name "VID3.mov".
+
+- Part in code that was not allowing the DC gearmotor to move:
+
+![](Media/IMG25.jpg)
+
