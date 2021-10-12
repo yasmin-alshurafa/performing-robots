@@ -144,10 +144,10 @@
 
 - Here are some images of the robot's physical appearance:
 
-![](Media/IMG27.jpg)
-![](Media/IMG28.jpg)
-![](Media/IMG29.jpg)
-![](Media/IMG30.jpg)
-![](Media/IMG31.jpg)
 ![](Media/IMG32.jpg)
 ![](Media/IMG33.jpg)
+![](Media/IMG34.jpg)
+![](Media/IMG35.jpg)
+![](Media/IMG36.jpg)
+![](Media/IMG37.jpg)
+![](Media/IMG38.jpg)
