@@ -137,3 +137,17 @@
 - Part in code that was not allowing the DC gear motor to move:
 
 ![](Media/IMG26.jpg)
+
+### Oct 12:
+
+- Today I worked on finalizing my project. I glued the components to the robot and uploaded the final code. I also worked on adding comments to my codes. Finally, I got the robot to work with the 4 DC gear motors, 6 LEDs, and radio. Although I wanted to have 3 Servo motors too in my robot, I, unfortunately, read the professor's comment on how to fix the issue with the Arduino Mega later after everything was glued in place. Maybe if the project wasn't due tomorrow and I had more time, I would've worked on getting the Arduino Mega working with all the components I wished to use. I kept the back of my robot open so that I can access things when necessary. I also kept the breadboard, the batteries and the Arduino Uno at the end so I can attach and reattach them as needed.
+
+- Here are some images of the robot's physical appearance:
+
+![](Media/IMG27.jpg)
+![](Media/IMG28.jpg)
+![](Media/IMG29.jpg)
+![](Media/IMG30.jpg)
+![](Media/IMG31.jpg)
+![](Media/IMG32.jpg)
+![](Media/IMG33.jpg)
