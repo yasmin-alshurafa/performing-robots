@@ -151,3 +151,19 @@
 ![](Media/IMG36.jpg)
 ![](Media/IMG37.jpg)
 ![](Media/IMG38.jpg)
+
+- The first sequence created by the first button:
+
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/1Rfj4b0oC8dW9Eg20YPf45i3h9HUjXvx3) in the name "VID6.mov".
+
+- The second sequence created by the second button:
+
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/1Rfj4b0oC8dW9Eg20YPf45i3h9HUjXvx3) in the name "VID7.mov".
+
+- The third sequence created by the third button:
+
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/1Rfj4b0oC8dW9Eg20YPf45i3h9HUjXvx3) in the name "VID8.mov".
+
+- The final video of the robot moving with the pushbuttons:
+
+##### Note: the video is too big to be displayed by can be found in this [link](https://drive.google.com/drive/folders/1Rfj4b0oC8dW9Eg20YPf45i3h9HUjXvx3) in the name "VID5.mov".
