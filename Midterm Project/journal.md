@@ -128,7 +128,7 @@
 
 ![](Media/IMG25.jpg)
 
-- I connected the second pair of DC gear motors to the Arduino to make sure they were functioning well with the radio. Although all the buttons were working and the DC gear motors were working when I pressed the forward button, one of the DC gear motors was not moving. It was moving with the other button but not the forward button, so I knew there was something wrong with the code, specifically with the case of the forward button. It was true, I had an issue with the code where instead of typing (in6Pin) I wrote (in5Pin). 
+- I connected the second pair of DC gear motors to the Arduino to make sure they were functioning well with the radio. Although all the buttons were working and the DC gear motors were working when I pressed the forward button, one of the DC gear motors was not moving. It was moving with the other button but not the forward button, so I knew there was something wrong with the code, specifically with the case of the forward button. It was true, I had an issue with the code where instead of typing `in6Pin` I wrote `in5Pin`. 
 
 - The DC gear motor not working when the forward button was pressed:
 
