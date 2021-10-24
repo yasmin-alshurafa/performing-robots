@@ -1,8 +1,9 @@
 # Assignment 3: Questions Response
 
-Choose a short scene from a play and a character in that scene, and consider how you would make a robot actor to perform that scene. Any spoken words will come from a human or a computer, not from your actor.
-How would you build the actor?
-What technical features will the actor need?
-How will you construct the actor to create the role?
-How will you decorate or dress the actor for best effect?
-What sequence of moves or other actions will you give your actor so that they can best play the part?
+The scene I chose was from the film Frozen, "Do you want to build a snowman?". This is the scene I chose https://youtu.be/WRsBMPnQYbQ. The chacater I chose from this scene was Anna.
+
+1- How would you build the actor?
+2- What technical features will the actor need?
+3- How will you construct the actor to create the role?
+4- How will you decorate or dress the actor for best effect?
+5- What sequence of moves or other actions will you give your actor so that they can best play the part?
