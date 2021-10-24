@@ -8,6 +8,9 @@ The scene I chose was from the film Frozen, "Do you want to build a snowman?". C
 Since the actor in the scene is a fictional human character, humanistic characteristics should be added to the robot version. The actor must have maybe some legs, arms, and eyes for movement and appearance. These humanistic parts can be built using plastic bottles and cardboard. Another possibility can be using an old doll to build the actor.
 
 - What technical features will the actor need?
+
+The actor would need some wheels to move around in the same way it moves in the scene. If not wheels, then something to make the actor move around the way it does in the scene. Also, the actor would need some movements in the arms and hands. This can happen by using Servo motors. Because in the scene, the actor sings and says some phrases, the robot version of it also has to sing or say something while performing the movements. Eyes and mouth are also some technical features that are needed for the actor. Whether they were just static or using a Neopixel and LEDs, they would add a lot to the character. This is because the actor in the film has a human’s physical appearance. 
+
 - How will you construct the actor to create the role?
 - How will you decorate or dress the actor for best effect?
 
