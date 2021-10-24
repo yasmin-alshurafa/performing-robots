@@ -12,6 +12,9 @@ Since the actor in the scene is a fictional human character, humanistic characte
 The actor would need some wheels to move around in the same way it moves in the scene. If not wheels, then something to make the actor move around the way it does in the scene. Also, the actor would need some movements in the arms and hands. This can happen by using Servo motors. Because in the scene, the actor sings and says some phrases, the robot version of it also has to sing or say something while performing the movements. Eyes and mouth are also some technical features that are needed for the actor. Whether they were just static or using a Neopixel and LEDs, they would add a lot to the character. This is because the actor in the film has a human’s physical appearance. 
 
 - How will you construct the actor to create the role?
+
+One of the main elements would be physical appearance. I believe with the physical appearances of the robot version of the actor, the actual character in the film will be easily known to the audience this way. In addition to the physical appearance, I believe that the actor would need to produce some sound or react with the sound in a certain way for it to be relatable to the audience. Sound or some kind of link to sound is needed because it can prove that the character is depicted by the robot is a human or has some human characteristics.
+
 - How will you decorate or dress the actor for best effect?
 
 The actor will be dressed in a dress. This is because the character is depicted in the film as a princess. If a dress can be accommodated, a crown only can be placed on the robot figure built to show that the character is a princess. Also, since the character is known for her orange braided hair and purple cape, both items or one of them can be placed on the robotic figure if possible to show that the robot is similar to the character in the film.
