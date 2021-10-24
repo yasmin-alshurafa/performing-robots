@@ -5,7 +5,7 @@ The scene I chose was from the film Frozen, "Do you want to build a snowman?". T
 - This is the scene:
 ![](Scene.gif)
 - This is the chacracter:
-![](Scene.gif)
+![](Actor.gif)
 
 ## Questions
 - How would you build the actor?
