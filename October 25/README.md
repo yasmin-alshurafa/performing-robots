@@ -1,6 +1,6 @@
 # Assignment 3: Questions Response
 
-The scene I chose was from the film Frozen, "Do you want to build a snowman?". This is the scene I chose https://youtu.be/WRsBMPnQYbQ. The character I chose from this scene was Anna.
+The scene I chose was from the film Frozen, "Do you want to build a snowman?". Click on this [link](https://youtu.be/WRsBMPnQYbQ) to see the scene I chose. The character I chose from this scene was Anna.
 
 ## Questions
 - How would you build the actor?
