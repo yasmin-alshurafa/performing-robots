@@ -5,15 +5,9 @@
 - Discussion slides: https://docs.google.com/presentation/d/127uCSMT-AcAO2PWfbU4H1jBvDQ9vziGUG7bpaWSLizQ/edit?usp=sharing
 
 ## Idea for a robot play
-Propose an idea for a robot play or a scene from a play.
-Your play may use one or more robots that we will build
-One or two robot dogs (Boston Dynamic Spot)
-Your play may be based on a play that already exists or you may make up something on your own
-Consider why a robot should perform in this role. Some suggestions:
-Can robots be used to explore topics that are too difficult for humans (e.g. difficult conversations)?
-Can robots be used to explore human-robot coexistence (an idea mentioned in Katie's presentation today)?
-Write this up in the same README.md mentioned above
-Include sketches or pictures of robots and/or scenery if you wish. Hand drawn is fine.
+
+- One idea I had in mind was to show the relationship between Boston Dynamic Spot as a robot being trained by a robot. Something like the way humans train their dogs. Another idea was to create a play that shows what it would be like to have a robotic family. So maybe something like a baby robot, robot parents, and the robot dog. Also, a potential idea for a play would be a robot nanny and a robot dog taking a baby human to the park for a visit.
+- I think the first idea would show maybe how robot to robot communication would be like - a robot training a robot or giving it some commands. As for the second idea, I think it can explore not topics that are difficult for humans, but maybe sensitive and taboo topics that humans and families, in general, tend to not talk about. Finally, the third idea can be used to explore human-robot coexistence, like how the robot nanny and robot dog would take care of a human baby while they are on a visit to the park. This is because in a normal scene we would see a nanny walking the dog and taking the kids to the park to play.
 
 ## Prototyping Shield
 
