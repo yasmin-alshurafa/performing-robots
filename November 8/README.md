@@ -1,6 +1,10 @@
+# Assignment 1: Reading Response + Idea
 
-Be prepared to discuss. Prepare questions, observations, and reactions in a short README.md in a new folder called November8 in your Github repository.
+## On Stage: Robots as Performers by Guy Hoffman
 
+- Discussion slides: https://docs.google.com/presentation/d/127uCSMT-AcAO2PWfbU4H1jBvDQ9vziGUG7bpaWSLizQ/edit?usp=sharing
+
+## Idea for a robot play
 Propose an idea for a robot play or a scene from a play.
 Your play may use one or more robots that we will build
 One or two robot dogs (Boston Dynamic Spot)
