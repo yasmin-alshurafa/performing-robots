@@ -1,4 +1,4 @@
-# Assignment 4: Reading Response + Idea
+# Assignment 4: Reading Response + Idea + Prototyping Shield
 
 ## On Stage: Robots as Performers by Guy Hoffman
 
@@ -14,3 +14,8 @@ Can robots be used to explore topics that are too difficult for humans (e.g. dif
 Can robots be used to explore human-robot coexistence (an idea mentioned in Katie's presentation today)?
 Write this up in the same README.md mentioned above
 Include sketches or pictures of robots and/or scenery if you wish. Hand drawn is fine.
+
+## Prototyping Shield
+
+![](IMG1.jpg)
+![](IMG2.jpg)
