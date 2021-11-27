@@ -7,4 +7,4 @@ Aalya and I brainstormed ideas for our sneezy dwarf robot together. We want to b
 
 ## Sketch:
 
-![](Scene.gif)
+![](IMG.png)
